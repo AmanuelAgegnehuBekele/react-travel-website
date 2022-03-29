@@ -6,11 +6,11 @@ import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 //Images
-const BaliTempleImg = require("../../images/bali-temple.jpg");
-const RiceTerraceImg = require("../../images/rice-terrace.jpg");
-const ExoticBromoImg = require("../../images/exotic-bromo.jpg");
-const MaleMaldivesImg = require("../../images/male-maldives.jpg");
-const IceTeaImg = require("../../images/ice-tea.jpg");
+const BaliTempleImg = require("../../Images/bali-temple.jpg");
+const RiceTerraceImg = require("../../Images/rice-terrace.jpg");
+const ExoticBromoImg = require("../../Images/exotic-bromo.jpg");
+const MaleMaldivesImg = require("../../Images/male-maldives.jpg");
+const IceTeaImg = require("../../Images/ice-tea.jpg");
 
 const ExploreSectionContainer = tw(Element)`
     w-full
