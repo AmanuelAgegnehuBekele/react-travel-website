@@ -87,6 +87,7 @@ const MenuItem = tw.li`
     text-sm
     lg:text-base
     mt-2
+    cursor-pointer
 `;
 
 const BottomSection = tw.div`
